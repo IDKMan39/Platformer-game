@@ -1,0 +1,5 @@
+platform-104,555,403
+platform-353,436,438
+yen-260,527
+address-588,414
+player1Male-132,523
